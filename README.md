@@ -1,2 +1,2 @@
-# 08.-CSharp-FStringsAndTextProcessingExercise
+StringsAndTextProcessingExercise
 Strings And Text Processing Exercise
